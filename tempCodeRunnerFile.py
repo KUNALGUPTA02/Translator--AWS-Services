@@ -1,0 +1,1 @@
+http://translatorcc-env.eba-g3bwpihb.us-east-1.elasticbeanstalk.com/getTranslation
